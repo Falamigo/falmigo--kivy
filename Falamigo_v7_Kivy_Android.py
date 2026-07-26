@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
 Falamigo AAC v7.0 - Versao Kivy para Android
 Autor: HGC Software Solutions
