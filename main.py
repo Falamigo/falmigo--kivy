@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+
 """
 FALAMIGO v3.2 Windows Edition
 Aplicativo TTS para Windows usando Tkinter e pyttsx3
